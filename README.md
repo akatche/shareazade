@@ -1,2 +1,2 @@
-# shareazade
-Repo for the Shareazade App
+# Shareazade
+App that helps you watch YouTube videos with your friends online
